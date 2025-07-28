@@ -22,14 +22,7 @@ The project is built with:
 
 ---
 
-## 📂 Project Structure
 
-├── backend/
-│ ├── server.js # Express server
-│ ├── routes/ # API routes
-│ ├── models/ # MongoDB models
-│ └── data/ # Hardcoded meal plan data
-├── frontend/
 │ └── lib/ # Flutter application
 └── README.md
 
